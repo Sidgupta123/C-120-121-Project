@@ -1,0 +1,52 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(235, 4, 212);
+  }
+
+  .heading_div {
+    float: none;
+    background: rgb(178, 10, 215);
+    padding: 10px;
+    border-radius: 20px;
+    color: rgb(3, 78, 255);
+    box-shadow: 5px 5px 5px rgb(113, 227, 0);
+  }
+
+  .heading_div2 {
+    font-size: 18px;
+  }
+
+  .result_para_tag {
+    box-shadow: 5px 5px 5px rgb(173, 3, 3);
+    font-size: 20px;
+  }
+
+  .result_para_tag span {
+    white-space: pre-line;
+  }
+
+  .copy_right_footer {
+    position: fixed;
+    color: yellow;
+    bottom: 0;
+    width: 100%;
+    background-color: blue;
+    line-height: 3;
+    text-align: center;
+  }
+
+  canvas {
+    border: 5px solid teal;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px indigo;
+    margin-top: 160px;
+  }
+
+
+
+
+
+  #watch{ width: 200px; height: 200px; margin-right: 1200px; margin-bottom: 20px; }
+  remove center tag.
